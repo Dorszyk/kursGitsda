@@ -1,1 +1,3 @@
 Ala ma kota.
+
+Dadawanie nowej funkcjonalności.
